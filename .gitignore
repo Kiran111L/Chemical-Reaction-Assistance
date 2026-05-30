@@ -1,0 +1,9 @@
+venv/
+vector_store/
+temp_uploads/
+__pycache__/
+.vscode/
+*.pyc
+.DS_Store
+*.mov
+Report/
